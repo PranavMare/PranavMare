@@ -6,6 +6,6 @@
 ### Hi there 👋, I'm Pranav
 
 - 🏢 Aspring Software Engineer
-- 📫 How to reach me: pranavmare@gmail.com
+- 📫 How to reach me: pranavmare99@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=PranavMare&color=green)
